@@ -1,19 +1,29 @@
 # NAME: Bank
 # AUTHOR: forecho
 # REPO: https://github.com/forecho/broker-rules
-# UPDATED: 2026-09-22
-# HOST-SUFFIX: 13
-# HOST: 9
+# UPDATED: 2026-11-13
+# HOST-SUFFIX: 23
+# HOST: 10
 # IP-CIDR: 0
-# TOTAL: 22
+# TOTAL: 33
+HOST-SUFFIX,antbank.mo,Bank
+HOST-SUFFIX,bochk.com,Bank
+HOST-SUFFIX,asia.ccb.com,Bank
+HOST-SUFFIX,cncbinternational.com,Bank
 HOST-SUFFIX,elebank.com,Bank
 HOST-SUFFIX,appsflyersdk.com,Bank
+HOST-SUFFIX,hangseng.com,Bank
+HOST-SUFFIX,hangsengbank.com,Bank
 HOST-SUFFIX,hsbc.com.hk,Bank
 HOST-SUFFIX,tealiumiq.com,Bank
 HOST-SUFFIX,online-metrix.net,Bank
 HOST-SUFFIX,cloud1.vv1865.com,Bank
 HOST-SUFFIX,liveperson.net,Bank
 HOST-SUFFIX,lpsnmedia.net,Bank
+HOST-SUFFIX,icbcasia.com,Bank
+HOST-SUFFIX,livibank.com,Bank
+HOST-SUFFIX,ncb.com.hk,Bank
+HOST-SUFFIX,welab.bank,Bank
 HOST-SUFFIX,wise.com,Bank
 HOST-SUFFIX,za.group,Bank
 HOST-SUFFIX,zainvest.group,Bank
@@ -26,5 +36,6 @@ HOST,mobile.eum-appdynamics.com,Bank
 HOST,tags.tiqcdn.com,Bank
 HOST,cdn.optimizely.com,Bank
 HOST,log-58144bf0.we-stats.com,Bank
+HOST,myebankasia.icbc.com.cn,Bank
 HOST,api.mixpanel.com,Bank
 HOST,app-measurement.com,Bank

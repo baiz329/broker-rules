@@ -1,11 +1,11 @@
 # NAME: Broker
 # AUTHOR: forecho
 # REPO: https://github.com/forecho/broker-rules
-# UPDATED: 2026-09-22
-# DOMAIN-SUFFIX: 94
-# DOMAIN: 22
+# UPDATED: 2026-11-13
+# DOMAIN-SUFFIX: 100
+# DOMAIN: 25
 # IP-CIDR: 63
-# TOTAL: 179
+# TOTAL: 188
 payload:
   - DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
   - DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
@@ -99,6 +99,12 @@ payload:
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,tradingview-widget.com
   - DOMAIN-SUFFIX,tradingviewstore.com
+  - DOMAIN-SUFFIX,yxzq.com
+  - DOMAIN-SUFFIX,usmartsg.com
+  - DOMAIN-SUFFIX,usmartfinance.com
+  - DOMAIN-SUFFIX,usmart.hk
+  - DOMAIN-SUFFIX,usmartglobal.com
+  - DOMAIN-SUFFIX,usmart8.com
   - DOMAIN-SUFFIX,zr.hk
   - DOMAIN-SUFFIX,zr66.com
   - DOMAIN,shortconnv6.im.qcloud.com
@@ -122,6 +128,9 @@ payload:
   - DOMAIN,openapi.longbridge.cn
   - DOMAIN,openapi-quote.longbridge.cn
   - DOMAIN,openapi-trade.longbridge.cn
+  - DOMAIN,www.redhotoffers.hsbc.com.hk
+  - DOMAIN,cdnhsbcrhostorage.azureedge.net
+  - DOMAIN,hsbc-rewardplus.firebaseio.com
   - DOMAIN,tradingview-user-uploads.b-cdn.net
   - IP-CIDR,119.28.37.0/24,no-resolve
   - IP-CIDR,43.153.233.0/24,no-resolve

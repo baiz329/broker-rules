@@ -1,11 +1,11 @@
 # NAME: Broker
 # AUTHOR: forecho
 # REPO: https://github.com/forecho/broker-rules
-# UPDATED: 2026-09-22
-# HOST-SUFFIX: 94
-# HOST: 22
+# UPDATED: 2026-11-13
+# HOST-SUFFIX: 100
+# HOST: 25
 # IP-CIDR: 63
-# TOTAL: 179
+# TOTAL: 188
 HOST-SUFFIX,9oju31.launches.appsflyersdk.com,Broker
 HOST-SUFFIX,sgqt0j.launches.appsflyersdk.com,Broker
 HOST-SUFFIX,shortconn.im.qcloud.com,Broker
@@ -98,6 +98,12 @@ HOST-SUFFIX,skytigris.cn,Broker
 HOST-SUFFIX,tradingview.com,Broker
 HOST-SUFFIX,tradingview-widget.com,Broker
 HOST-SUFFIX,tradingviewstore.com,Broker
+HOST-SUFFIX,yxzq.com,Broker
+HOST-SUFFIX,usmartsg.com,Broker
+HOST-SUFFIX,usmartfinance.com,Broker
+HOST-SUFFIX,usmart.hk,Broker
+HOST-SUFFIX,usmartglobal.com,Broker
+HOST-SUFFIX,usmart8.com,Broker
 HOST-SUFFIX,zr.hk,Broker
 HOST-SUFFIX,zr66.com,Broker
 HOST,shortconnv6.im.qcloud.com,Broker
@@ -121,6 +127,9 @@ HOST,openapi-trade.longbridge.com,Broker
 HOST,openapi.longbridge.cn,Broker
 HOST,openapi-quote.longbridge.cn,Broker
 HOST,openapi-trade.longbridge.cn,Broker
+HOST,www.redhotoffers.hsbc.com.hk,Broker
+HOST,cdnhsbcrhostorage.azureedge.net,Broker
+HOST,hsbc-rewardplus.firebaseio.com,Broker
 HOST,tradingview-user-uploads.b-cdn.net,Broker
 IP-CIDR,119.28.37.0/24,Broker,no-resolve
 IP-CIDR,43.153.233.0/24,Broker,no-resolve
